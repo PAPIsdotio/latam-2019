@@ -33,7 +33,7 @@ We'd like to **strongly encourage women to submit proposals**. As a community co
 ### Tools — June 26
 
 * Audience: developers, engineers, scientists, technical managers
-* Format: 10' demo OR 30' tutorial (+ 5' for Q&A) — **no slides allowed**
+* Format: 10' demo OR 30' tutorial (+ 5' for Q&A) — **no slides or videos allowed**
 * Topics: Tools and APIs that make it easier to experiment with ML, integrate it into real-world products/applications, or to deploy it at scale. We particularly welcome tools which are open source, or freely accessible. We will also select demos of proprietary tools as long as the presentations are not commercial, they are engaging, practical, or teach how to do a specific task with the tool being demonstrated.
 
 ## What we're looking for
@@ -46,7 +46,7 @@ _Presentations should be non-commercial. A very limited number of sponsored spea
 
 ### Papers
 
-We welcome technical papers, industrial experience reports, primers, perspective papers, essays, review papers, and research papers from authors of accepted proposals. While submitting an article for peer-review is no requirement to be accepted to present at PAPIs, we highly encourage authors to take the time to share their work with the community in this format as well. Articles will appear on [Authorea](https://authorea.com/) as web-based pre-prints, and they will be published in the Proceedings of Machine Learning Research journal (see our [2017](http://proceedings.mlr.press/v82/), [2016](http://proceedings.mlr.press/v67/) and [2015](http://proceedings.mlr.press/v50/) proceedings). More information is available in our [tips & rules](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md).
+We welcome technical papers, industrial experience reports, primers, perspective papers, essays, review papers, and research papers from authors of accepted proposals. While submitting an article for peer-review is no requirement to be accepted to present at PAPIs, we highly encourage authors to take the time to share their work with the community in this format as well. Articles will appear on [Authorea](https://authorea.com/) as web-based pre-prints, and they will be published in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/) journal (see our [2017](http://proceedings.mlr.press/v82/), [2016](http://proceedings.mlr.press/v67/) and [2015](http://proceedings.mlr.press/v50/) proceedings). More information is available in our [tips & rules](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md).
 
 ### The Organizing Committee
 
