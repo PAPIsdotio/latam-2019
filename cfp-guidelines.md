@@ -4,7 +4,11 @@ PAPIs is the 1st series of international conferences dedicated to **real-world M
 
 ## Key dates
 
-* **June 25-26**: Conference takes place in São Paulo
+* March 12 (11.59pm GMT): CfP closes
+* March 26: author notifications
+* April 2: author confirmations due
+* June 13: final presentation info/slides due
+* **June 25-26**: conference takes place in São Paulo
 
 We'd like to **strongly encourage women to submit proposals**. As a community conference, we think it's important to increase diversity in AI. Applications for funding to reimburse childcare and travel costs will be invited from women and primary carers whose proposals are accepted. We're also looking for [sponsors](https://www.papis.io/sponsoring) to support our diversity efforts!
 
@@ -52,7 +56,7 @@ We welcome technical papers, industrial experience reports, primers, perspective
 
 Program Chairs:
 
-* TBA
+* Daniel Nichol (Institute of Cancer Research - University of London)
 
 Reviewers:
 
