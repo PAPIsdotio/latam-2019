@@ -52,6 +52,10 @@ Presentations should be **non-commercial**. A very limited number of sponsored s
 
 ### The Organizing Committee
 
+General Chair: Louis Dorard (UCL)
+
+Lead Organizer: Ruben Glatt (USP)
+
 Program Chairs:
 
 * Daniel Nichol (Institute of Cancer Research - University of London)
@@ -59,10 +63,6 @@ Program Chairs:
 Reviewers:
 
 * TBA
-
-General Chair: Louis Dorard (UCL)
-
-Lead Organizer: Ruben Glatt (USP)
 
 ### Acknowledgements
 
