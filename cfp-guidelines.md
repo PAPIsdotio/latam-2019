@@ -1,31 +1,31 @@
 # Call for Proposals — PAPIs Latam 2019
 
-PAPIs is the 1st series of international conferences dedicated to **real-world Machine Learning applications, techniques, and tools**.
+PAPIs is the 1st series of international conferences dedicated to **real-world Machine Learning applications, techniques, and tools**, and it is Calling for Proposals.
 
 Previous editions took place in Boston, Sydney, Barcelona, Paris, Valencia, London, and PAPIs Latam will be held in São Paulo for the 3rd time! It will bring together engineers, scientists, researchers, hackers and managers who will meet to share experiences and discover the latest innovations, techniques, and tools to build ML applications. Find out more at [papis.io/latam-2019](http://www.papis.io/latam-2019).
 
 ## Key dates
 
-* **March 12 (11.59pm GMT): CfP closes**
+* **March 12 (11.59pm GMT): Call for Proposals (CfP) closes**
 * March 26: author notifications
 * April 2: author confirmations due
 * June 13: final presentation info/slides due
 * June 25-26: conference takes place in São Paulo
 
-### [Sign up here to get updates!](http://www.papis.io/#updates)
+**[Sign up here to get updates!](http://www.papis.io/#updates)**
 
 ## Tracks
 
 ### New techniques — June 26
 
 * Audience: experienced practitioners who have an advanced knowledge of ML
-* Format: 20' (+ 5' for Q&A)
+* Format: 20' presentation (+ 5' for Q&A)
 * Topics: Innovations, applied research, and new ML techniques that have the potential to take the industry further. Proposals for this track will be evaluated on the basis of their novelty. They should also be technical. We encourage speakers to show code!
 
 ### Engineering — June 25
 
 * Audience: developers, ML engineers, and ScienceOps professionals (DevOps for Data Science)
-* Format: 20' (+ 5' for Q&A)
+* Format: 20' presentation (+ 5' for Q&A)
 * Topics: Discussions on the technical challenges of deploying ML systems in production, and lessons learnt from experience. We invite industry participants to describe their war stories and the architectures, pipelines, frameworks, APIs, etc., that they built to create or improve intelligent applications. Proposals for this track should be technical. They can range from ML beginner-friendly how-tos to deep dives for more experienced professionals. We encourage speakers to show code!
 
 ### Tools — June 26
@@ -37,7 +37,7 @@ Previous editions took place in Boston, Sydney, Barcelona, Paris, Valencia, Lond
 ### ML in the Wild — June 25
 
 * Audience: everyone who's interested in the integration of ML into real-world applications
-* Format: 20' (+ 5' for Q&A)
+* Format: 20' presentation (+ 5' for Q&A)
 * Topics: Presentations of ML use cases in new areas, discussions on the challenges of integrating ML into various applications/products, and lessons learnt. This can include domain-specific challenges, as well as those related to product design, transparency, privacy, fairness, accountability, ethics, etc. We would like to also encourage the community to share their failure stories — after all, you aren’t a real ML innovator until you’ve had to deal with massive failure of your ML system!
 
 ## What we're looking for
