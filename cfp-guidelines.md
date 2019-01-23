@@ -1,5 +1,3 @@
-# Call for Proposals — PAPIs Latam 2019
-
 PAPIs is the 1st series of international conferences dedicated to **real-world Machine Learning applications, techniques, and tools**, and it is Calling for Proposals.
 
 Previous editions took place in Boston, Sydney, Barcelona, Paris, Valencia, London, and PAPIs Latam will be held in São Paulo for the 3rd time! It will bring together engineers, scientists, researchers, hackers and managers who will meet to share experiences and discover the latest innovations, techniques, and tools to build ML applications. Find out more at [papis.io/latam-2019](http://www.papis.io/latam-2019).
@@ -52,13 +50,14 @@ Presentations should be **non-commercial**. A very limited number of sponsored s
 
 ### The Organizing Committee
 
-General Chair: Louis Dorard (UCL)
+General Chair: **Louis Dorard** (UCL)
 
-Lead Organizer: Ruben Glatt (USP)
+Lead Organizer: **Ruben Glatt** (USP)
 
 Program Chairs:
 
-* Daniel Nichol (Institute of Cancer Research - University of London)
+* **Ana Paula Appel** (IBM, São Paulo)
+* **Daniel Nichol** (Institute of Cancer Research - University of London)
 
 Reviewers:
 
@@ -66,4 +65,4 @@ Reviewers:
 
 ### Acknowledgements
 
-This website is based on [rubycentral’s cfp-app](https://github.com/rubycentral/cfp-app). These guidelines were inspired from those of our previous conferences — many thanks to everyone who provided feedback and to all of our previous Program Chairs: Francisco Martin, Florian Douetteau, Keiran Thompson, Alastair Moore, Paula Fadul, Thierry Silbermann.
+This website is based on [rubycentral’s cfp-app](https://github.com/rubycentral/cfp-app). These guidelines were inspired from those of our previous conferences — many thanks to everyone who provided feedback and to all of our previous Program Chairs: Sunanda Koduvayur, Sharat Chikkerur, Francisco Martin, Florian Douetteau, Keiran Thompson, Alastair Moore, Paula Fadul, Thierry Silbermann.
