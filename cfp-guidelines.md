@@ -56,7 +56,7 @@ Lead Organizer: **Ruben Glatt** (USP)
 
 Program Chairs:
 
-* **Ana Paula Appel** (IBM, São Paulo)
+* **Ana Paula Appel** (IBM Research, São Paulo)
 * **Daniel Nichol** (Institute of Cancer Research - University of London)
 
 Reviewers:
